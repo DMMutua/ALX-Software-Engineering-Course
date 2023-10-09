@@ -3,10 +3,10 @@ A Collation of All Projects, Exercises, and Practice Problems Solved for the Com
 The Course Involved;
 ## Software Engineering Fundamentals
 An 8-Month Long Rigourous Online Learning Long Sprint on Software Engineering Fundamentals and Basics that Covered the Following;
-- 
+
 ## Short Specialization on Back-End Development
 A 3-Month Long Specialization Sprint on Back-End Development Specifics that Covered;
-  - 
+
 ## Programming Languages
 Proficiency in the Following Languages was Developed;
 1. C
